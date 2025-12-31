@@ -6,6 +6,9 @@ Dark / Light Mode Toggle with Sun &amp; Moon UI A simple frontend project built 
 A visually interactive **Dark / Light Mode Toggle** built using **HTML, CSS, and JavaScript**.  
 The project switches between a **sky-blue light mode with a sun** and a **black dark mode with a moon**, placed at the center of the screen with smooth animations.
 
+## Live Demo
+ https://aatrasadaf.github.io/toggledarklight/
+
 ---
 
 ## 🚀 Features
